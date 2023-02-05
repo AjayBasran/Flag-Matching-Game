@@ -1,0 +1,32 @@
+
+North America:
+"Canada",
+"USA",
+"Mexico",
+
+"Guatemala",
+"Belize",
+"El Salvador",
+"Honduras",
+"Nicaragua",
+"Costa Rica",
+"Panama",
+
+"Cuba",
+"Jamaica",
+"Haiti",
+"Dominican Republic",
+
+"Colombia",
+"Venezuela",
+"Guyana",
+"Suriname",
+"French Guiana",
+"Brazil",
+"Uruguay",
+"Paraguay",
+"Bolivia",
+"Argentina",
+"Chile",
+"Peru",
+"Ecuador"
